@@ -1,5 +1,11 @@
 [
   {
+    "action": "generate_api_key",
+    "detail": "API key baru dibuat",
+    "by": "admin",
+    "at": 1789513728639
+  },
+  {
     "action": "add_number",
     "detail": "62895410790927",
     "by": "admin",
