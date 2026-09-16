@@ -1,5 +1,11 @@
 [
   {
+    "action": "generate_api_key",
+    "detail": "admin",
+    "by": "admin",
+    "at": 1789547035554
+  },
+  {
     "action": "add_user",
     "detail": "yaww",
     "by": "admin",
