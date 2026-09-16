@@ -1,5 +1,11 @@
 [
   {
+    "action": "add_user",
+    "detail": "yaww",
+    "by": "admin",
+    "at": 1789546970998
+  },
+  {
     "action": "generate_api_key",
     "detail": "akun",
     "by": "akun",
