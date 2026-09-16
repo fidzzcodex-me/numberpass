@@ -1,5 +1,11 @@
 [
   {
+    "action": "delete_number",
+    "detail": "628954107979",
+    "by": "akun",
+    "at": 1789600649581
+  },
+  {
     "action": "generate_api_key",
     "detail": "yaww",
     "by": "yaww",
